@@ -1,0 +1,3 @@
+interface Bisquit {
+    fun sellBisquit()
+}
